@@ -5,3 +5,7 @@ https://snaillm.github.io/todo/
 RESTful
 
 uml
+
+知识点|日期|完成日期
+---|---|---|
+autoworid/resource|20190914
